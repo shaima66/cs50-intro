@@ -10,7 +10,7 @@ My journey through CS50x - Harvard's Introduction to Computer Science. Building 
 ## Topics & Projects
 
 * Week 0: Scratch 🕹️
-  * *Project:* A Maze with Bear (amaze_with_bear.sb3)
+  * *Project:* A Maze with Bear (amaze_with_bear.sb3)(https://scratch.mit.edu/projects/1335052570)
   * *Description:* An interactive maze game designed using block-based programming, focusing on logic control, character movement algorithms, and collision detection.
 * Week 1: C 💻
 * Week 2: Arrays 📊
